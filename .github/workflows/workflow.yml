@@ -1,4 +1,4 @@
-name: Install node and run linter/tests
+name: Node CI
 on: push
 jobs:
   build:
